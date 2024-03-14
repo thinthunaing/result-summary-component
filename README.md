@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://thinthunaing.github.io/result-summary-component/))
 
 ## My process
 First I downloaded this project and I divide two main layout for this page. 
